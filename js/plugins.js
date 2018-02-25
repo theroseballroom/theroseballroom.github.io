@@ -108,7 +108,7 @@ Flex Slider Blog
 =============================================== */	
 	
  $(window).load(function(){
-	  'use strict';
+  'use strict';
 		
       $('.post .flex').flexslider({
         animation: "fade",
@@ -503,19 +503,6 @@ Count Factors
 })(jQuery);
 
 
-
-
-
-/* ==============================================
-Video Script
-=============================================== */
-
-jQuery(function(){
-			'use strict';
-
-            jQuery(".player").mb_YTPlayer();
-		});	
-	
 
 
 
